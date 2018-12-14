@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.nxs",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "es",
+    "packageName": "com.nxs",
+    "packageFolder": "com/nxs",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzU4Y2E1ZDFhMGVhYWRkMDdhOWYyN2IxZGVlMTVlMWI3ZjI0MmMwMjE2MmFiZTU3ZGNiN2QxZDZjODQ1NTdjNGE4NThhMDhlNjQ0NTkxNDI3ZjM1YzcyNjNlZTcwMmU0OTJjNzFiYWNlYjkyYWI5M2QxZTNiNjMzMWE2NGJlODI=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn",
+      "en"
+    ]
+  }
+}
